@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "94616103589",
+    "firebase_url": "https://liza-d0450.firebaseio.com",
+    "project_id": "liza-d0450",
+    "storage_bucket": "liza-d0450.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94616103589:android:1e4ff02375d170275a7b4c",
+        "android_client_info": {
+          "package_name": "com.example.liza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94616103589-0grfthgni2pk3k0ckkp4dua9ajvlkjue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeV8Zr_3gnUwPbEADyRJ5vBq_eL1RPs2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94616103589-0grfthgni2pk3k0ckkp4dua9ajvlkjue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
